@@ -1,6 +1,4 @@
-# flutter_darmstadt
-
-A new Flutter application.
+# Flutter Darmstadt #1 - Animations Everywhere
 
 ## Getting Started
 
